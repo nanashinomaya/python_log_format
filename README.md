@@ -1,0 +1,2 @@
+# python_log_format
+Windowsログのcsv出力を加工する
